@@ -1,4 +1,6 @@
-## What is MAMP?
+## Get Started with MAMP
+
+### What is MAMP?
 
 MAMP stands for **M**acintosh, **A**pache, **M**ySQL, and **P**HP. MAMP is an application that can be installed under **macOS** and **Windows** with just a few clicks and it allows you to have access to a local PHP server and MySQL server. This software turns your computer into a localhost. This allows you to run PHP code, and gives you access to PHPMyAdmin so you can build websites and create databases on your local computer.
 
@@ -11,11 +13,15 @@ double click it, MAMP window will pop up. Drag only the MAMP folder to the Appli
 
 ### Step 2: Basic MAMP settings
 
-Now you have got MAMP installed on your computer, launch MAMP.app (located at /Applications/MAMP/MAMP.app).
+Now you have got MAMP installed on your computer, launch MAMP.app located at /Applications/MAMP/MAMP.app.
 
 While you are editing settings, MAMP might prompt you for an administrator password. This is required because MAMP needs to run two processes: mysqld (MySQL) and httpd (Apache), and depending on the settings you set for those processes, you may or may not need to input your password.
 
-Once you open MAMP, click the Preferences button. Next, click over to "Ports." The default MAMP ports are 8888 for Apache, and 8889 for MySQL. If you use this configuration, you should not get asked for your password, but you would need to include the port number in the URL (localhost:8888). If you'd like to leave the port number out of the URL, change the Apache port to 80. The downside of using port 80 as your MAMP Apache port is that you'll always be asked for your password.
+Once you open MAMP, click the Preferences button. Next, click over to "Ports." The default MAMP ports are 8888 for Apache, and 8889 for MySQL. If you use this configuration, you should not get asked for your password, but you would need to include the port number in the URL (localhost:8888).
+
+![Image](/Users/Uththara/Desktop/Screen Shot 2018-11-16 at 12.03.00 PM)
+
+If you'd like to leave the port number out of the URL, change the Apache port to 80. The downside of using port 80 as your MAMP Apache port is that you'll always be asked for your password.
 
 
 
