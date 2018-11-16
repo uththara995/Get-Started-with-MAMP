@@ -1,3 +1,30 @@
+## Get Started with MAMP
+
+1. What is MAMP?
+
+MAMP stands for Macintosh, Apache, MySQL, and PHP. MAMP is an application that can be installed under macOS and Windows with just a few clicks and it allows you to have access to a local PHP server and MySQL server. This software turns your computer into a localhost. This allows you to run PHP code, and gives you access to PHPMyAdmin so you can build websites and create databases on your local computer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/uththara995/Get-Started-with-MAMP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
